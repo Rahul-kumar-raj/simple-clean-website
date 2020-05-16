@@ -1,0 +1,86 @@
+body {
+  font-family: 'helvetica neue';
+  width: 100%;
+}
+#header{
+  position: fixed;
+
+  z-index: 10;
+  width: 100%
+
+}
+
+.title {
+  padding-top: 180px;
+  background-color: #E4E9FD;
+  background-image: -webkit-linear-gradient(65deg, #A683E3 50%, #E4E9FD 50%);
+  height: 720px;
+  text-align: center;
+
+}
+
+.first {
+  text-decoration: underline;
+  margin-left: 203px;
+  margin-bottom: 50px;
+  margin-top: 50px;
+}
+
+.bi-heart {
+  color: red;
+}
+
+#About {
+  margin-top: 20px;
+}
+
+.card {
+  text-align: center;
+  margin-left: 50px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+#progress {
+  text-decoration: underline;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.progress {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+#protfolio {
+  margin-bottom: 80px;
+  /*margin-left: 480px;*/
+}
+#skill{
+  background-color: #ffcccc;
+}
+
+.pic {
+  margin-left: 50px
+}
+
+#testtimonial{
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+#contact {
+  /*margin-left: 320px;*/
+  width: 50%;
+  margin-top: 80px;
+  margin-bottom: 80px;
+}
+footer {
+  width: 100%;
+  padding-top: 50px;
+  text-align: center;
+  height: 240px;
+  background-color: #A683E3;
+  margin-top: 80px;
+
+}
